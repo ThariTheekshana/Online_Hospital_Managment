@@ -1,5 +1,5 @@
 # Online_Hotel_Managment
-This is a Java-based project. there are Crud operations. and we developed the following MVC Architecture.
+This is a Java-based web project. There are Crud operations and we developed this following MVC Architecture.
 
 ## Technologies and Tools
 
