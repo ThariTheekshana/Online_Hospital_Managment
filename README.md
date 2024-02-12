@@ -1,4 +1,4 @@
-# Online_Hotel_Managment
+# Online_Hospital_Managment
 This is a Java-based web project. There are Crud operations and we developed this following MVC Architecture.
 
 ## Technologies and Tools
